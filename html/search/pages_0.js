@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['a_20simple_20manual',['A simple manual',['../index.html',1,'']]]
+  ['ejemplos',['Ejemplos',['../md_template__ejemplos.html',1,'']]]
 ];

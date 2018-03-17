@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['index_2emd',['index.md',['../index_8md.html',1,'']]],
-  ['index_2ephp',['index.php',['../index_8php.html',1,'']]],
-  ['introducción',['Introducción',['../md_template_index.html',1,'']]]
+  ['foo',['foo',['../classsoleil_1_1api_1_1php_1_1_tools.html#a965a22fe82e954a35b0cf083606a9fe1',1,'soleil::api::php::Tools']]]
 ];
